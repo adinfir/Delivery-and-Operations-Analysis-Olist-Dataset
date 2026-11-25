@@ -30,15 +30,6 @@ This project uses the Olist Brazilian E-Commerce Public Dataset from Kaggle.
 - `orders_dataset`
 - `customers_dataset`
 
-**Key Columns:**
-- `order_id`
-- `customer_id`
-- `order_status`
-- `order_purchase_timestamp`
-- `order_delivered_customer_date`
-- `order_estimated_delivery_date`
-- `customer_state`
-
 **Data Scope:**
 - Delivery analysis focuses on orders with available actual delivery dates.
 - Actual delivery time is calculated from the purchase date to the actual delivery date.
